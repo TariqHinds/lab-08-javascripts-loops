@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        var num1 = prompt("How long til the party my human??!?!") 
+      
+      for (var x=num1-1 ;x >= 0; x--){
+       console.log(parseInt(x));
+       if (x == 1) {
+console.log("TIME TO COOK THE DAMN CAKE PEOPLE WHOOOOO!!");
+       } else if (x <= 0) {
+           console.log("Party is right now bro and sis!!"); 
+       }
+    }
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+

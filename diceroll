@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        var num1 = prompt("Roll a number between 1-6");
+        var num2 = prompt("Roll a number between 1-6");
+        var resultA = parseFloat(num1) + parseFloat(num2); 
+        console.log("The sum of your two roll is" + " " + resultA); 
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

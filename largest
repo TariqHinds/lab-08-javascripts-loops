@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <script>
+        var num1 = prompt("Give me a number");
+        var num2 = prompt("Give me another number");
+        var num3 = prompt("Give me another number");
+        var num4 = prompt("Give me another number");
+        var n1 = parseInt(num1);
+        var n2 = parseInt(num2);
+        var n3 = parseInt(num3);
+        var n4 = parseInt(num4);
+    console.log("Your largest number is" + " " + Math.max(n1,n2,n3,n4)); 
+        
+   </script>
+</head>
+<body>
+    
+</body>
+</html>

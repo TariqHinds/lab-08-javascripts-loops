@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        var num1 = prompt("Give me a number");
+        var num2 = prompt("Give me another number");
+        var num3 = prompt("Give me another number");
+        var num4 = prompt("Give me another number");
+      var results = parseInt(num1) + parseInt(num2) + parseInt(num3) + parseInt(num4); 
+      console.log(results + ' ' + "Is your sum"); 
+      var final = (results/4);
+      console.log(final + ' ' + "is your average");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
